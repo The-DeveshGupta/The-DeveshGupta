@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=The-DeveshGupta)
+
 ### Hi there 👋
 
 <!--
@@ -16,3 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on this README
+- 🌱 I’m currently learning Statistics, Finance and Deep Learning
+- 👯 I’m looking to collaborate on ML enabled Web Applications
+- 💬 Ask me about Analysis, Statistics, Machine Learning and Python Programming
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/-devesh-gupta-/)
